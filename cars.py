@@ -11,3 +11,5 @@ print("\nOriginal list again")
 print(CARS)
 
 print(len(CARS))
+
+print(CARS[-1])
