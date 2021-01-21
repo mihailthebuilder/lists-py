@@ -7,5 +7,7 @@ print(BICYCLES[0].title())
 
 del BICYCLES[1]
 
-print(BICYCLES.remove("cannondale"))
 print(BICYCLES[1])
+
+BICYCLES.sort(reverse=True)
+print(BICYCLES)
