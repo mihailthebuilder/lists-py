@@ -9,3 +9,5 @@ print(sorted(CARS))
 
 print("\nOriginal list again")
 print(CARS)
+
+print(len(CARS))
